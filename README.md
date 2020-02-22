@@ -5,6 +5,8 @@ Todo List using MERN
 * cd backend
 * npm install -g nodemon
 * npm install
+* mongo
+* mongod
 * npm start
 
 # To run client:
